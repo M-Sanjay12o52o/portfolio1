@@ -231,3 +231,46 @@ body {
         width: 0;       
     }
 }
+
+.about {
+    background-color: #081b29;
+    width: 100%;
+    height: 100vh;
+    border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.servies {
+    background-color: #081b29;
+    width: 100%;
+    height: 100vh;
+    border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portfolio {
+    background-color: #081b29;
+    width: 100%;
+    height: 100vh;
+    border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact {
+    background-color: #081b29;
+    width: 100%;
+    height: 100vh;
+    border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
