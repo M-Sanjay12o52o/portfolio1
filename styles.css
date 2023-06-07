@@ -6,7 +6,7 @@
 }
 
 body {
-    /* background: #081b29; */
+    background: #081b29;
     color: #ededed;
 }
 
@@ -46,7 +46,6 @@ body {
 
 .home {
     height: 100vh;
-    background: url('sanjay.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
